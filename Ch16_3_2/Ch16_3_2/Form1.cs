@@ -16,10 +16,5 @@ namespace Ch16_3_2
 		{
 			InitializeComponent();
 		}
-
-		private void button1_Click(object sender, EventArgs e)
-		{
-			label1.Text = "按下Button按鈕-v2.0";
-		}
 	}
 }
